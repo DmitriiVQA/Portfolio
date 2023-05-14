@@ -6,4 +6,5 @@
 * https://www.youtube.com/@Photographer_usa
 * ![foto](Foto.png)
 
-и многое другое!
+
+# И многое другое!
