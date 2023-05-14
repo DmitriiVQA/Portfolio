@@ -3,6 +3,6 @@
 
 * Vasilev Dmitrii 
 * QA Enginer; Project Creator
-* http://https://www.youtube.com/@Photographer_usa
+* https://www.youtube.com/@Photographer_usa
 * ![foto](Foto.png)
 и многое другое!
